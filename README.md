@@ -1,4 +1,4 @@
-![Visual+Sena](https://user-images.githubusercontent.com/82356894/116645157-92795a80-a94b-11eb-9ec8-3e44000055b8.png)
+![Visual+Sena](https://media.discordapp.net/attachments/374718212312662027/885309672167456858/Visual_Studio_2012_logo_and_wordmark.svg.png?width=1200&height=202)
 # Bem-vindo 👋
 
 Visual Studio:heart_eyes:  
