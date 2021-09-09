@@ -18,7 +18,7 @@
   Steam: https://steamcommunity.com/id/gh0styz/   
   </td><br>
 </div>
-<br><br><br><br><br><br>
+<br><br><br><br><br>
 <div>
   <a href="https://steamcommunity.com/id/gh0styz/"><img width="95" height="28" src="https://camo.githubusercontent.com/8e4bba3347a43a1cf1f23e33e3e4a90e43f1f89eb30cc3d01f6018ebf003e9f9/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d537465616d2d2532333333333f7374796c653d666f722d7468652d6261646765266c6f676f3d737465616d266c6f676f436f6c6f723d7768697465" target="_blank"></a>
   <a href="https://www.instagram.com/leo.barcelos/"><img width="95" height="28" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
