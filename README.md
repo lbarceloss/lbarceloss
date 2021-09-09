@@ -12,7 +12,7 @@
     Facebook: https://www.facebook.com/leonardo.barcelos.5454  
   </td>
   <td><br>
-    Discord: 
+    Discord: Leonardo "Ghost"#4483
   </td><br>
   <td>
   Steam: https://steamcommunity.com/id/gh0styz/   
