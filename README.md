@@ -3,10 +3,18 @@
 
 Visual Studio:heart_eyes:  
 Programador C# & C++  
-
-Facebook: https://www.facebook.com/leonardo.barcelos.5454  
-Discord: https://discord.gg/Q7TAWS7Q  
-Steam: https://steamcommunity.com/id/gh0styz/   
-Youtube: https://www.youtube.com/channel/UCronENwwwbsyCzI1yNeEg3g/featured
-
-
+<div>
+  <img align="right" alt="penis" src="https://steamuserimages-a.akamaihd.net/ugc/443952088704314632/A60D66EDED98FC392D06706AC694AA6BB78081CF/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false%22%3E"
+  <td>
+    Facebook: https://www.facebook.com/leonardo.barcelos.5454  
+  </td>
+  <td><br>
+    Discord: 
+  </td><br>
+  <td>
+  Steam: https://steamcommunity.com/id/gh0styz/   
+  </td><br>
+  <td>
+  
+  </td>
+</div>
