@@ -6,16 +6,16 @@
   <img align="right" alt="penis" width="500" height="292" src="https://steamuserimages-a.akamaihd.net/ugc/443952088704314632/A60D66EDED98FC392D06706AC694AA6BB78081CF/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false%22%3E"
   <td>
   Visual Studio:heart_eyes:<br>
-  Programador C# & C++
+  Programador C# & C++,
   </td><br>
   <td>
-    Facebook: https://www.facebook.com/leonardo.barcelos.5454  
+    Back-End,
   </td>
   <td><br>
-    Discord: Leonardo "Ghost"#4483
+    Bypasser,
   </td><br>
   <td>
-  Steam: https://steamcommunity.com/id/gh0styz/   
+    Coder
   </td><br>
 </div>
 <br><br><br><br><br>
