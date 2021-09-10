@@ -9,16 +9,16 @@
   Programador C# & C++,
   </td><br>
   <td>
-    Back-End,
+    :small_orange_diamond: Back-End,
   </td>
   <td><br>
-    Bypasser,
+    :small_orange_diamond: Bypasser,
   </td><br>
   <td>
-    Coder,
+    :small_orange_diamond: Coder,
   </td><br>
   <td>
-    Third Party Programs :heart:
+    :small_orange_diamond: Third Party Programs :heart:
   </td><br>
 </div>
 <br><br><br><br><br>
