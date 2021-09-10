@@ -27,6 +27,4 @@
   <a href="https://www.paypal.com/donate?business=B5VMJ36SYKLCU&no_recurring=0&currency_code=BRL"><img width="95" height="28" src="https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white" target="_blank"></a>
     <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white">
   <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
-  
-  ##
 </div>
