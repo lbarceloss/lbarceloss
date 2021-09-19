@@ -26,5 +26,5 @@
   <a href="https://steamcommunity.com/id/gh0styz/"><img width="95" height="28" src="https://camo.githubusercontent.com/8e4bba3347a43a1cf1f23e33e3e4a90e43f1f89eb30cc3d01f6018ebf003e9f9/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d537465616d2d2532333333333f7374796c653d666f722d7468652d6261646765266c6f676f3d737465616d266c6f676f436f6c6f723d7768697465" target="_blank"></a>
   <a href="https://www.paypal.com/donate?business=B5VMJ36SYKLCU&no_recurring=0&currency_code=BRL"><img width="95" height="28" src="https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white" target="_blank"></a>
    <a href="https://discord.gg/TCucPNyhQt"> <img width="95" height="28" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"> </a>
-  <img width="50" height="28" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
+  <img width="95" height="28" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
 </div>
