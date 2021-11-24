@@ -1,11 +1,9 @@
-![Visual+Sena](https://media.discordapp.net/attachments/374718212312662027/885309672167456858/Visual_Studio_2012_logo_and_wordmark.svg.png?width=1200&height=202)
-# Bem-vindo 👋
+# Bem-Vindo 👋
 <div>
-  <img align="right" alt="penis" width="500" height="292" src="https://steamuserimages-a.akamaihd.net/ugc/443952088704314632/A60D66EDED98FC392D06706AC694AA6BB78081CF/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false%22%3E">
+  <img align="right" alt="penis" width="450" height="700" src="https://media.giphy.com/media/grI39CpoDoIuyYDJ4F/giphy.gif">
   <td>
-  Visual Studio:heart_eyes:<br>
-  Programador C# & C++,
-  </td><br>
+  Programador C++, C# :heart_eyes:<br>
+  </td>
   <td>
     :small_orange_diamond: Back-End,
   </td>
@@ -19,7 +17,7 @@
     :small_orange_diamond: Third Party Programs :heart:
   </td><br>
 </div>
-<br><br><br><br><br>
+<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 <div>
    <a href="https://www.facebook.com/leonardo.barcelos.5454/"><img width="95" height="28" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"></a>
   <a href="https://www.instagram.com/leo.barcelos/"><img width="95" height="28" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
