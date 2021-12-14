@@ -17,13 +17,13 @@
     :small_orange_diamond: Third Party Programs :heart:
   </td><br>
   <td>
-    :small_orange_diamond: PangYa :heart:
+    :small_orange_diamond: PangYa,
   </td><br>
   <td>
-    :small_orange_diamond: CS:GO :heart:
+    :small_orange_diamond: CS:GO,
   </td><br>
   <td>
-    :small_orange_diamond: COD: Warzone :heart:
+    :small_orange_diamond: COD: Warzone.
   </td><br>
 </div>
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
