@@ -1,6 +1,5 @@
 # Bem-Vindo 👋
 <div>
-  <img align="right" alt="penis" src="https://i.gifer.com/Eocb.gif">
   <td>
   Programador C++, C# :heart_eyes:<br>
   </td>
