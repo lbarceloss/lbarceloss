@@ -1,6 +1,6 @@
 # Bem-Vindo 👋
 <div>
-  <img align="right" alt="penis" width="450" height="700" src="https://media.giphy.com/media/grI39CpoDoIuyYDJ4F/giphy.gif">
+  <img align="right" alt="penis" width="450" height="700" src="">
   <td>
   Programador C++, C# :heart_eyes:<br>
   </td>
