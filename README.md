@@ -1,6 +1,6 @@
 # Bem-Vindo 👋
 <div>
-  <img align="right" alt="penis" width="450" height="700" src="https://cdn.discordapp.com/attachments/374718212312662027/980704003711205406/left.gif">
+  <img align="right" alt="penis" width="450" height="700" src="https://i.gifer.com/Eocb.gif">
   <td>
   Programador C++, C# :heart_eyes:<br>
   </td>
