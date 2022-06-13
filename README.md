@@ -25,4 +25,3 @@
     :small_orange_diamond: COD: Warzone.
   </td><br>
 </div>
-![](https://user-images.githubusercontent.com/82356894/173411646-6339ad5d-8646-41bb-b7f7-8b992bd80e33.gif)
