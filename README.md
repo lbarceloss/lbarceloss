@@ -14,6 +14,14 @@
                 「 Focused on mastering the art of <b>Engineering Reverse</b> and <b>Bypass</b> techniques 」
                 <br>
                 <br>
+                「 I won't be posting my C and C++ code on this GitHub for obvious reasons. 
+                Instead, I'll be sharing C# code to showcase how far a C# program can go in terms of game hacking 
+                without relying on tools like OllyDbg, Ghidra, ReClass, or anything beyond Cheat Engine, 
+                Process Hacker, Visual Studio, and, of course, lots and lots of coffee. Hahaha. 
+                Let's see how far we can push this without Kernel access, Kernel Drivers, or DLL injection— 
+                a worthy challenge for myself... hahahaha. 」
+                <br>
+                <br>
         </samp>
         <!-- Technologies -->
 <!-- C++ -->
