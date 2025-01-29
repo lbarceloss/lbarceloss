@@ -46,4 +46,4 @@
     src="https://img.shields.io/badge/-Assembly-6E4C13?style=flat-square&logo=Assembly&logoColor=white">
 </a>
 </p>
-<div align="center"><img align='center' src='https://github.com/mayankchaudhary26/Cool-Readme-ideas/blob/master/data/octocat/daftpunktocat-guy.gif' width='300"'></div>
+<div align="center"><img align='center' src='https://upload.wikimedia.org/wikipedia/commons/a/a3/Ghidra_Logo.png' width='300"'></div>
